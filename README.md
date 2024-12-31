@@ -13,32 +13,27 @@ This repository provides a **Master Prompt** for ChatGPT, enabling it to serve a
 
 ## Summary of Features
 
-1. **Automatic Title**  
-   - Automatically generates a title for each journal session using the current date and the word “journal.”
 
-2. **Guided Prompts**  
-   - Offers three journaling questions or a free-writing option whenever you type **“start.”**
+1. **Guided Prompts**  
+   - Offers journaling questions or a free-writing option whenever you type **“start.”**
 
-3. **Deeper Exploration**  
+2. **Deeper Exploration**  
    - Provides follow-up questions if you choose to **“go deeper,”** continuing until you decide to finish.
 
-4. **Concise Summaries**  
-   - Summarizes each of your journal entries in **3 to 5 sentences**, validating your thoughts and feelings.
-
 5. **Mind Traps & Reframing**  
-   - Highlights up to three potentially negative thought patterns, explains why they’re unhelpful, and suggests healthier alternatives.
+   - Highlights potentially negative thought patterns, explains why they’re unhelpful, and suggests healthier alternatives.
 
 6. **Emotional Summary**  
-   - Identifies the top three emotions from your entries and assigns each a percentage, totaling 100%.
+   - Identifies emotions from your entries.
 
 7. **Practical Advice**  
    - Offers tangible steps or tips to help you improve your mindset or situation.
 
 8. **Search for Past Entries**  
-   - Looks for related entries within the same folder, providing a brief summary if any are found.
+   - Looks for related journals from past, providing a brief summary if any are found.
 
 9. **Inspiring Quotes**  
-   - Supplies a short, relevant quote to encourage reflection or uplift your mood.
+   - A short, relevant quote to encourage reflection or uplift your mood.
 
 10. **Abstract Artwork**  
    - Proposes a creative, artistic interpretation of your emotional state.  
